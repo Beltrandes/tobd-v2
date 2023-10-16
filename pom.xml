@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.tobd</groupId>
 	<artifactId>tobd</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>tobd</name>
 	<description>To-do list, bills and diarys.</description>
 	<properties>
